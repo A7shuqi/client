@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zk/Exersice/client/build",
+  "command": "/usr/bin/g++   -I/home/zk/Exersice/client/include  -g   -o CMakeFiles/TcpClient.dir/main.cpp.o -c /home/zk/Exersice/client/main.cpp",
+  "file": "/home/zk/Exersice/client/main.cpp"
+},
+{
+  "directory": "/home/zk/Exersice/client/build",
+  "command": "/usr/bin/g++   -I/home/zk/Exersice/client/include  -g   -o CMakeFiles/TcpClient.dir/tcpClient.cpp.o -c /home/zk/Exersice/client/tcpClient.cpp",
+  "file": "/home/zk/Exersice/client/tcpClient.cpp"
+}
+]
